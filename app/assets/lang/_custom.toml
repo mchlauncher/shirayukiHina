@@ -1,7 +1,7 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "연말 서버"
+title = "유니 3주년"
 
 [ejs.landing]
 mediaGitHubURL = "https://github.com/mchlauncher/shirayukiHina"
@@ -18,6 +18,6 @@ sourceGithubLink = "https://github.com/mchlauncher/shirayukiHina"
 supportLink = "https://github.com/mchlauncher/shirayukiHina/issues"
 
 [ejs.welcome]
-welcomeHeader = "연말 서버"
+welcomeHeader = "유니 3주년"
 welcomeDescription = ""
 welcomeDescCTA = "[계속] 버튼을 눌러 계속 진행하여 주세요."
